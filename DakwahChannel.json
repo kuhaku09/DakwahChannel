@@ -1,0 +1,16 @@
+{"user":
+    {
+        "id":1,
+        "name":"ikhwan_sukabumi_",
+        "username":"ikhwan_sukabumi_",
+        "videos":
+        [
+            {
+                "id":1,
+                "name":"Ustadz Khalid Basalamah",
+                "link":"https://www.youtube.com/user/khalidbasalamah",
+                "imageUrl":"https://drive.google.com/file/d/11FpxnM8PYeWfuag6pMkbDgHANyVe0ejD/view?usp=sharing"
+            }
+        ]
+    }    
+}
